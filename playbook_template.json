@@ -1,0 +1,5 @@
+{
+  "title": "Automated Response",
+  "summary": "{{THREAT_SUMMARY}}",
+  "actions": ["isolate_host", "notify_soc"]
+}
